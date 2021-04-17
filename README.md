@@ -90,7 +90,7 @@
               </div>
               <div class="carousel-item">
                 <a href="escultura/escultura.html"></a>
-                  <img src="img/escultura3.jpeg" class="d-block w-140" alt="..." class="mx-auto d-block" style="width:100%" >
+                  <img src="img/escultura3.jpeg" class="d-block w-140" alt="..." class="mx-auto d-block" style="width:100%" >    <!-- cambié imagen>
               </div>
             </div> 
             <a class= "carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -106,7 +106,7 @@
         <!--TEXTO ASIDE CARRUSEL-->
         <aside id="text-carrusel">
           <h3>Grupo Cero</h3>
-            <p> Somos un grupo de artistas plásticos dedicados a la pintura, escultura, orfebrería, tejido y otras expresiones artísticas</p>
+            <p> Somos un grupo de artistas plásticos dedicados a la pintura, escultura, orfebrería, tejido y otras expresiones artísticas</p> <!--cambié texto>
         </aside>
     <!--GALERIA DE IMAGENES-->
     <div id="galeria" class="container">
